@@ -44,4 +44,4 @@ async def animal(ctx):
    # Kita kemudian dapat mengirim file ini sebagai tolok ukur!
     await ctx.send(file=picture)      
 
-bot.run("MTEzNDEwNTc2Mzk4MDI0NzA1Mg.Gwa01J.gp0F33F7ea21oaymNM7ZUzzkK4ZoNRpg07GKH4")
+bot.run("")
